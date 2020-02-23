@@ -13,9 +13,9 @@ In the setting menu, the user can do the following:
 ---
 The default interval between the falls is equal to 30 seconds the current hour and the starting hour are equal to 0:00:00.
 To change these values:
-1. press the yellow button for settings
-2. enter the correct password (0000)
-3. choose the option from the menu
+1. Press the yellow button for settings.
+2. Enter the correct password (0000).
+3. choose the option from the menu:
   - "Set the time" to set the current hour.
   - "Ch. hour" to change the starting time of the falls.
   - "Ch. Int" to change the interval of the falls.
@@ -24,7 +24,7 @@ To change these values:
 
 ## Video
 ---
-The video can be found [here]().
+The video can be found [here](https://youtu.be/OyoUawzjTTU).
 
 ## Bill of Materials
 ---
