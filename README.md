@@ -6,7 +6,7 @@ The project implements an automatic pet feeder where the user can schedule how o
 
 Initially it displays a welcome message then the current hour(it starts at 0:00:00, but the user can change it) and the remaining time (RT) untill the fall. This values can be changed by pressing the button and entering a password. The correct password is formed of 4 digits (0000).
 
-In the setting menu, the user can do the following:
+In the settings menu, the user can do the following:
 - Change the current time (selecting the "Set the time" option). As default, the time starts at 0:00:00.
 - Set an hour from which to start the falling of food in equal intervals (selecting the "Ch. hour" option). In this case the RT remains locked until that time. The default values are 00:00:00.
 - Change the interval of the falls (selecting the "Ch. Int" option). The default value is 30 seconds.
@@ -18,9 +18,9 @@ To change these values:
 1. Press the yellow button for settings.
 2. Enter the correct password (0000).
 3. choose the option from the menu:
-  - "Set the time" to set the current hour.
-  - "Ch. hour" to change the starting time of the falls.
-  - "Ch. Int" to change the interval of the falls.
+      - "Set the time" to set the current hour.
+      - "Ch. hour" to change the starting time of the falls.
+      - "Ch. Int" to change the interval of the falls.
 4. Set the desired value using the joystick.
 5. Press the button again to submit the changes.
 
