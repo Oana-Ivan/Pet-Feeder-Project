@@ -4,7 +4,7 @@
 ---
 The project implements an automatic pet feeder where the user can schedule how often his pet receives food. 
 
-Initially it displays a welcome message then the current hour(it starts at 0:00:00, but the user can change it) and the remaining time (RT) untill the fall. This values can be changed by pressing the button and entering a password. The correct password is formed of 4 digits (0000).
+Initially it displays a welcome message then the current hour (it starts at 0:00:00, but the user can change it) and the remaining time (RT) untill the fall. This values can be changed by pressing the button and entering a password. The correct password is formed of 4 digits (0000).
 
 In the settings menu, the user can do the following:
 - Change the current time (selecting the "Set the time" option). As default, the time starts at 0:00:00.
@@ -13,11 +13,12 @@ In the settings menu, the user can do the following:
 
 ## How to use
 ---
-The default interval between the falls is equal to 30 seconds the current hour and the starting hour are equal to 0:00:00.
+The default interval between the falls is equal to 30 seconds. The current hour and the starting hour are equal to 0:00:00.
+
 To change these values:
 1. Press the yellow button for settings.
 2. Enter the correct password (0000).
-3. choose the option from the menu:
+3. Choose the option from the menu:
       - "Set the time" to set the current hour.
       - "Ch. hour" to change the starting time of the falls.
       - "Ch. Int" to change the interval of the falls.
