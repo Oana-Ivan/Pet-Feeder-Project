@@ -31,7 +31,7 @@ The video can be found [here](https://youtu.be/lU5tHlrbQfo).
 
 ## Bill of Materials
 ---
-The list of materials used for this project can be found [here](http://https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=1705842037). 
+The list of materials used for this project can be found [here](https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=1705842037). 
 
 ## Assembled Hardware
 ---
