@@ -26,7 +26,7 @@ To change these values:
 
 ## Video
 ---
-The video can be found [here](https://youtu.be/OyoUawzjTTU).
+The video can be found [here](https://youtu.be/lU5tHlrbQfo).
 
 ## Bill of Materials
 ---
